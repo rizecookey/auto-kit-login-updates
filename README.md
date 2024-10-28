@@ -1,2 +1,2 @@
 # auto-kit-login-updates
-Update manifest for the auto-kit-login
+Update manifest for the Auto KIT Login Extension
