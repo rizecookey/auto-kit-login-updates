@@ -29,6 +29,10 @@
         {
           "version": "1.2.5",
           "update_url": "https://github.com/rizecookey/auto-kit-login/releases/download/v1.2.5/auto-kit-login-1.2.5-firefox.xpi"
+        },
+        {
+          "version": "1.2.6",
+          "update_url": "https://github.com/rizecookey/auto-kit-login/releases/download/v1.2.6/auto-kit-login-1.2.6-firefox.xpi"
         }
       ]
     }
